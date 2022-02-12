@@ -1,0 +1,10 @@
+C:\Users\BUSE NUR\source\repos\Sefer_Yolculuk_Firması\Sefer_Yolculuk_Firması\bin\Debug\Sefer_Yolculuk_Firması.exe.config
+C:\Users\BUSE NUR\source\repos\Sefer_Yolculuk_Firması\Sefer_Yolculuk_Firması\bin\Debug\Sefer_Yolculuk_Firması.exe
+C:\Users\BUSE NUR\source\repos\Sefer_Yolculuk_Firması\Sefer_Yolculuk_Firması\bin\Debug\Sefer_Yolculuk_Firması.pdb
+C:\Users\BUSE NUR\source\repos\Sefer_Yolculuk_Firması\Sefer_Yolculuk_Firması\obj\Debug\Sefer_Yolculuk_Firması.csprojAssemblyReference.cache
+C:\Users\BUSE NUR\source\repos\Sefer_Yolculuk_Firması\Sefer_Yolculuk_Firması\obj\Debug\Sefer_Yolculuk_Firması.Form1.resources
+C:\Users\BUSE NUR\source\repos\Sefer_Yolculuk_Firması\Sefer_Yolculuk_Firması\obj\Debug\Sefer_Yolculuk_Firması.Properties.Resources.resources
+C:\Users\BUSE NUR\source\repos\Sefer_Yolculuk_Firması\Sefer_Yolculuk_Firması\obj\Debug\Sefer_Yolculuk_Firması.csproj.GenerateResource.cache
+C:\Users\BUSE NUR\source\repos\Sefer_Yolculuk_Firması\Sefer_Yolculuk_Firması\obj\Debug\Sefer_Yolculuk_Firması.csproj.CoreCompileInputs.cache
+C:\Users\BUSE NUR\source\repos\Sefer_Yolculuk_Firması\Sefer_Yolculuk_Firması\obj\Debug\Sefer_Yolculuk_Firması.exe
+C:\Users\BUSE NUR\source\repos\Sefer_Yolculuk_Firması\Sefer_Yolculuk_Firması\obj\Debug\Sefer_Yolculuk_Firması.pdb
